@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/xqWbd1F/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "The Mysterious Adventure",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/K5V3zp2/andrew-tovar-7j78xc-UUU4-Q-unsplash.jpg",
+    "posted_date": "2023-09-13",
+    "reading_time": "15 minutes",
+    "hashtags": ["adventure", "mystery", "fiction"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/Smt4stW/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
+    "title": "Science Unleashed",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/Pr0vMsj/guillaume-bolduc-SGzb-P-t1vlg-unsplash.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": "10 minutes",
+    "hashtags": ["science", "research", "technology"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/xqWbd1F/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "Cooking Delights",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/3zy1V4B/romina-farias-Bs-Z71j4i-m4-unsplash.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": "20 minutes",
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/8DRz9cg/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+    "title": "History Unveiled",
+    "author": "Robert Williams",
+    "author_img": "https://i.ibb.co/3vxrGrF/gian-cescon-00-By-EXKc-Sk-A-unsplash.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": "18 minutes",
+    "hashtags": ["history", "ancient", "knowledge"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/dp4rRmS/high-angle-desktop-with-laptop-copy-space-1.jpg",
+    "title": "Traveler's Tales",
+    "author": "Sarah Brown",
+    "author_img": "https://i.ibb.co/frqsjsF/vladislav-todorov-jo-INR2-EKnv-Y-unsplash.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": "25 minutes",
+    "hashtags": ["travel", "adventure", "exploration"]
+  }
+]
